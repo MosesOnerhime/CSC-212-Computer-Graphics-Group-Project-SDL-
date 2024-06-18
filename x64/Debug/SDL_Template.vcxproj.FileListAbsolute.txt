@@ -1,0 +1,4 @@
+C:\Users\Ugochukwu Nwodo\Documents\(Graphics)CSC212-2022set\SDL_Template-main\x64\Debug\SDL_Template.exe
+C:\Users\Ugochukwu Nwodo\Documents\Temp\Scenes\x64\Debug\SDL_Template.exe
+C:\Users\Ugochukwu Nwodo\Documents\Graphics_CSC212\Scenes2\x64\Debug\SDL_Template.exe
+C:\Users\Ugochukwu Nwodo\Documents\Graphics_CSC212\Frame\x64\Debug\SDL_Template.exe
